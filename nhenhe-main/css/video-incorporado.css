@@ -1,0 +1,26 @@
+.videoo {
+    width: 100%;
+    max-width: 1000px;
+    position: relative;
+    padding-bottom: 56.25%; 
+    margin: 0 auto; 
+
+}
+
+.videoo .tamanhovideo iframe {
+    width: 100%;
+    height: 55%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+}
+
+.videoo iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
